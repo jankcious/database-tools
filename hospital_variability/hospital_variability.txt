@@ -1,0 +1,13 @@
+Which procedures have the greatest variability between hospitals? 
+In order to assess variability, we took all records and grouped by measure, and then calculated the standard deviation of all scores.
+Most variable metrics:
+ED_1b   92.83178787038696
+ED_2b   62.16665059398293
+OP_18b  40.700773223371534
+OP_3b   29.479326601050538
+STK_4   21.954194561164016
+OP_23   21.844653491103763
+AMI_7a  18.7794213613377
+OP_2    18.048443797995763
+OP_21   17.722358013930922
+OP_20   16.88205297557654
