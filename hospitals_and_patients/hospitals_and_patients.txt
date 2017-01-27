@@ -1,9 +1,0 @@
-Are average scores for hospital quality or procedural variability correlated with patient survey responses? 
-
-In order to answer this, we take the overall score index for each hospital, along with the base score on patient surveys, and perform a correlation.  There is actually a slightly negative correlation (r = -.017)
-saying that a lower survey response base score is associated with a higher index on various measures.  The R-sqauared value is .031, which means that only about 3% of the 
-variation in survey responses can be explained by the variation of the hospital's overall performance.  
-Many of the survey questions revolve around patient perception, whereas many of the hospital measures represent hard facts (like whether or not statin was administered), so the lack of correlation is not surprising.
-
-In order to answer the question of variability, we take the HCAHPS variability score and perform a correlation with the standard deviation of hospital performance indices.  We see a similar slight negative
-correlation at r=-.17 and the r-squared value is at .03 showing relatively small predictive power.  It is possible that the survey base scores are highly correlated with variability, but it will require further investigation.
