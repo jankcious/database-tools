@@ -1,0 +1,20 @@
+What hospitals are models of high-quality care?  That is, which hospitals have the most consistently high scores for a variety of procedures.   
+
+To determine an overall score for each hospital, the average score for each procedure was calculated.  The resulting average measure scores were used to index each hospital's performance
+against the average.  The average index was then calculated for each hospital.
+Values of "Not Available" were excluded from this evaulation along with measures of Emergency Room volume (since it is categorical and cannot be averaged).
+
+Below are the top 10 averages for hospitals:
+ZUNI COMPREHENSIVE COMMUNITY HEALTH CENTER      203.68947612993597
+PERHAM HEALTH   193.85471901283168
+ESSENTIA HEALTH FOSSTON 190.4867959046356
+FALLS COMMUNITY HOSPITAL AND CLINIC     180.99938864808158
+HOSP COMUNITARIO BUEN SAMARITANO        173.76823585120516
+STARR COUNTY MEMORIAL HOSPITAL  168.50809304839314
+BROWNFIELD REGIONAL MEDICAL CENTER      165.5480566683895
+MEDICAL ARTS HOSPITAL   164.34662084489122
+PROVIDENT HOSPITAL OF CHICAGO   158.59134746357236
+EASTERN OKLAHOMA MEDICAL CENTER 156.67861423244338
+
+This method of indexing was used in order to control for the very different types of procedures.  If a hospital scores 99 on a measure, it matters more whether this is an outlier or a completely normal value.
+If every hospital scores 99, then the score is unremarkable.  This also has the benefit of allowing us to compare scores with different scales.
